@@ -15,16 +15,16 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "fa-IR",
+    baseUrl: "Mohsen16578.github.io/content",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "vazirmatn",
+        body: "vazirmatn",
         code: "IBM Plex Mono",
       },
       colors: {
