@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "fa-IR",
-    baseUrl: "Mohsen16578.github.io/content",
+    baseUrl: "mrmirhoseini.ir",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
